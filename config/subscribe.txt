@@ -8,5 +8,12 @@ https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
+https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/refs/heads/main/IPTV.m3u
+https://raw.githubusercontent.com/hujingguang/ChinaIPTV/refs/heads/main/cnTV_AutoUpdate.m3u8
+https://raw.githubusercontent.com/Rivens7/Livelist/refs/heads/main/IPTV.m3u
+https://raw.githubusercontent.com/yuanzl77/IPTV/refs/heads/main/live.m3u
+https://raw.githubusercontent.com/torysuper/IPTV-P/refs/heads/Files/IPTV.m3u
+https://raw.githubusercontent.com/illbnm/iptv/refs/heads/Files/IPTV.m3u
+https://aktv.space/live.m3u
 https://live.hacks.tools/tv/iptv6.txt
 https://live.hacks.tools/tv/iptv4.txt
